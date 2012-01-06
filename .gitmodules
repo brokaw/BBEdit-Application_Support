@@ -1,0 +1,3 @@
+[submodule "Color Schemes"]
+	path = Color Schemes
+	url = git://github.com/billkeller/BBEdit-Color-Schemes-Pack.git
